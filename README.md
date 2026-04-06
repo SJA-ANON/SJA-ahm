@@ -1,59 +1,120 @@
-# Hello, I'm Junaid
+# 👋 Hello, I'm Junaid
 
+<a href="https://linkedin.com/in/syed-junaid-soc">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://linkedin.com/in/junaid-ahmed-anon"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Cybersecurity Analyst with 2+ years of experience in SOC Operations, Threat Detection, and Incident Response. I specialize in analyzing security events, building detection use cases, and improving visibility across cloud and enterprise environments.
 
-Accomplished Cybersecurity Analyst with 2 years of specialized experience in SOC operations within private security software contracting. Adept in threat analysis, implementing resilient defense strategies, and ensuring the integrity of systems. Proficient in utilizing industry-standard tools and methodologies to mitigate cyber risks and safeguard organizational assets.
+I’ve worked extensively with SIEM platforms like Splunk and Microsoft Sentinel, focusing on log analysis, alert triage, and threat hunting aligned with MITRE ATT&CK.
 
-## Objective
+---
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## 🎯 What I Do
 
-## Skills
+- Monitor, investigate, and respond to security incidents in SOC environments  
+- Develop and tune SIEM detection rules to reduce false positives  
+- Perform log analysis across endpoints, network, and cloud platforms  
+- Conduct threat hunting using MITRE ATT&CK framework  
+- Automate repetitive security workflows using SOAR concepts  
+- Support incident response lifecycle (detection → containment → remediation)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Malware Analysis LAb          | <a href="https://github.com/SJA-ANON/Malware-Analysis-Lab">Detection Lab</a>|
-| Implementing a SOC and Honeynet in Azure  | <a href="https://github.com/SJA-ANON/SIEM-Honeypot-SOC">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+---
 
-## Tools
+## 🧠 Core Skills
 
-### Network
+| Domain                | Skills |
+|----------------------|--------|
+| **SIEM & Detection** | Splunk, Microsoft Sentinel, Elastic SIEM, Use Case Development |
+| **Threat Hunting**   | MITRE ATT&CK Mapping, IOC Analysis, Log Correlation |
+| **Incident Response**| Alert Triage, Root Cause Analysis, Case Management |
+| **Cloud Security**   | Azure Security, GCP Fundamentals |
+| **Networking**       | TCP/IP, DNS, HTTP/S, Firewall Logs |
+| **Security Tools**   | Wireshark, Nmap, Burp Suite, Nessus |
+| **Automation**       | SOAR (Shuffle), Python/Bash (basic scripting) |
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🔍 SIEM Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-DD0A73?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-005580?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00C4F1?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Endpoint
+### 🌐 Network & Security Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-005580?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-DD0A73?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-00C4F1?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
-### SIEM
+### 🖥️ Endpoint & DFIR
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCSK-000080?&style=for-the-badge&logoColor=white" />
-</div>
+---
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## 📂 Featured Projects
+
+### 🔹 Malware Analysis Lab
+- Static and dynamic malware analysis in controlled lab environments  
+- Behavioral analysis using sandboxing and system monitoring tools  
+- Identified indicators of compromise (IOCs) and attack patterns  
+
+👉 https://github.com/SJA-ANON/Malware-Analysis-Lab  
+
+---
+
+### 🔹 SIEM + Honeypot SOC Lab (Azure)
+- Built a mini SOC environment using Microsoft Sentinel  
+- Deployed honeypots to capture real-world attack data  
+- Created custom detection rules and dashboards  
+- Performed log ingestion, alerting, and incident investigation  
+
+👉 https://github.com/SJA-ANON/SIEM-Honeypot-SOC  
+
+---
+
+### 🔹 SOC Automation (SOAR)
+- Automated alert triage workflows using Shuffle  
+- Integrated TheHive for case management  
+- Reduced manual effort in repetitive incident handling  
+- Implemented basic playbooks for response actions  
+
+---
+
+## 📜 Certifications
+
+- CompTIA Security+  
+- CCNA  
+- CCSK (Cloud Security)  
+- ISC2 Certified in Cybersecurity (CC)  
+- Splunk Certified (Fundamentals)  
+- GCP Associate Cloud Engineer  
+- Network Security Auditing with Nmap  
+
+---
+
+## 🚀 Current Focus
+
+- Advancing detection engineering & SIEM use case development  
+- Learning DevSecOps fundamentals (CI/CD security, IaC scanning)  
+- Improving cloud security monitoring (Azure & GCP)  
+- Strengthening scripting for automation (Python)
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/syed-junaid-soc  
+- GitHub: https://github.com/SJA-ANON  
+
+---
+
+⭐ *Open to SOC L2 / Security Analyst / Detection Engineering roles*
