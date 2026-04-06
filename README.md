@@ -1,6 +1,6 @@
 # Syed Junaid Ahmed
 
-Cybersecurity Analyst with 2+ years of experience in Security Operations, SIEM engineering, and incident response. Experienced in monitoring enterprise environments, developing detection use cases, and analyzing security events across cloud and on-prem systems.
+Cybersecurity Analyst with 4+ years of experience in Security Operations, SIEM engineering, and incident response. Experienced in monitoring enterprise environments, developing detection use cases, and analyzing security events across cloud and on-prem systems.
 
 Hands-on with Microsoft Sentinel and Splunk for log analysis, alert triage, and threat detection. Strong focus on detection engineering, log correlation, and MITRE ATT&CK aligned threat hunting. 
 
